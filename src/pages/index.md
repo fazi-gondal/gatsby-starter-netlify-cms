@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Welcome To Code With Fazi
-image: /img/home-jumbotron.jpg
+image: /img/1000022068-1-.png
 heading: Hi I'm Muhammad Faizan
-subheading: Support sustainable farming while enjoying a cup
+subheading: Hi I'm Muhammad Faizan
 mainpitch:
   title: Why Kaldi
   description: >
