@@ -39,7 +39,7 @@ R﻿andom 40 number.
 | 7﻿2-76  | 4﻿ (Tally Mark) |  ﻿   4     |
 | 7﻿6-80  | 3 (Tally Mark)  |  ﻿   3     |
 | 8﻿0-84  | 4﻿ (Tally Mark) |  ﻿   3     |
-| 8﻿4-88  |  ﻿              | Row 7      |
+| 8﻿4-88  | 4 ﻿(Tally Mark) |  ﻿   4     |
 | 8﻿8-92  | Row 8           | Row 8      |
 | 92-96   | Row 9           | Row 9      |
 | 9﻿6-100 | Row 10          | Row 10     |
