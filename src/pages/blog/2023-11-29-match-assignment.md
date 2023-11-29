@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Match Assignment
+title: Math Assignment
 date: 2023-11-29T14:41:20.514Z
 description: Hi I'm Muhammad Faizan Student of ADP AF.
 featuredpost: true
