@@ -19,7 +19,6 @@ R﻿andom 40 number.
 
 * **G﻿rouped Frequences Distribuction.**
 
-L﻿et Classes = 10
+*L﻿et Classes = 10*
 
-R﻿ange = x\~m-x\~o
-H~2~O
+*R﻿ange = X<sub>m</sub>-X<sub>o</sub>*
