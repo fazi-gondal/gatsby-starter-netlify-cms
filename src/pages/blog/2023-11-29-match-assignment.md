@@ -30,3 +30,16 @@ R﻿andom 40 number.
 **H﻿=R/C** 
 
 **3﻿9/10 = 3.9 = 4**
+
+| Classes | T﻿ally | F﻿requency |
+| ------- | ------ | ---------- |
+| 6﻿0-64  | Row 1  | Row 1      |
+| 6﻿4-68  | Row 2  | Row 2      |
+| 6﻿8-72  | Row 3  | Row 3      |
+| 7﻿2-76  | Row 4  | Row 4      |
+| 7﻿6-80  | Row 5  | Row 5      |
+| 8﻿0-84  | Row 6  | Row 6      |
+| 8﻿4-88  | Row 7  | Row 7      |
+| 8﻿8-92  | Row 8  | Row 8      |
+| 92-96  | Row 9  | Row 9      |
+| 9﻿6-100 | Row 10 | Row 10     |
