@@ -15,9 +15,9 @@ The Marks of 40 Students may group frequency distribute also draw its Histogram 
 
 R﻿andom 40 number.
 
-> 94, 87, 71, 63, 82, 95, 76, 99, 79, 64, 89, 97, 74, 65, 81, 78, 83, 92, 69, 70, 96, 66, 75, 91, 68, 73, 61, 88, 80, 98, 72, 86, 90, 67, 62, 77, 93, 85, 84, 100
+83, 95, 72, 78, 91, 60, 66, 89, 73, 97, 64, 79, 84, 76, 88, 62, 94, 71, 65, 98, 87, 61, 70, 80, 92, 75, 68, 82, 96, 63, 69, 81, 99, 74, 90, 67, 86, 93, 77, 100, 85
 
-* **G﻿rouped Frequences Distribuction.**
+**G﻿rouped Frequences Distribuction.**
 
 *L﻿et Classes = 10*
 
@@ -41,5 +41,5 @@ R﻿andom 40 number.
 | 8﻿0-84  | Row 6  | Row 6      |
 | 8﻿4-88  | Row 7  | Row 7      |
 | 8﻿8-92  | Row 8  | Row 8      |
-| 92-96  | Row 9  | Row 9      |
+| 92-96   | Row 9  | Row 9      |
 | 9﻿6-100 | Row 10 | Row 10     |
