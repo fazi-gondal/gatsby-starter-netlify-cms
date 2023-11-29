@@ -9,7 +9,7 @@ tags:
   - math
   - Assignment
 ---
-# Match Assignment By Faizan.
+# Math Assignment By Faizan.
 
 The Marks of 40 Students may group frequency distribute also draw its Histogram and make its stem and leaf display.
 
@@ -33,13 +33,13 @@ R﻿andom 40 number.
 
 | Classes | T﻿ally          | F﻿requency |
 | ------- | --------------- | ---------- |
-| 6﻿0-64  | 5 (Tally mark)  |  ﻿   5     |
-| 6﻿4-68  | 4 (Tally Mark)  |  ﻿   4     |
-| 6﻿8-72  | 4﻿ (Tally Mark) |   ﻿   4    |
-| 7﻿2-76  | 4﻿ (Tally Mark) |  ﻿   4     |
-| 7﻿6-80  | 3 (Tally Mark)  |  ﻿   3     |
-| 8﻿0-84  | 4﻿ (Tally Mark) |  ﻿   3     |
-| 8﻿4-88  | 4 ﻿(Tally Mark) |  ﻿   4     |
-| 8﻿8-92  | 4﻿(Tally Mark)  |  ﻿   4     |
-| 92-96   | 4﻿(Tally Mark)  |  ﻿   4     |
-| 9﻿6-100 | 4﻿(Tally Mark)  |  ﻿   4     |
+| 6﻿0-64  | 5 (Tally mark)  | ﻿   5      |
+| 6﻿4-68  | 4 (Tally Mark)  | ﻿   4      |
+| 6﻿8-72  | 4﻿ (Tally Mark) | ﻿   4      |
+| 7﻿2-76  | 4﻿ (Tally Mark) | ﻿   4      |
+| 7﻿6-80  | 3 (Tally Mark)  | ﻿   3      |
+| 8﻿0-84  | 4﻿ (Tally Mark) | ﻿   3      |
+| 8﻿4-88  | 4 ﻿(Tally Mark) | ﻿   4      |
+| 8﻿8-92  | 4﻿(Tally Mark)  | ﻿   4      |
+| 92-96   | 4﻿(Tally Mark)  | ﻿   4      |
+| 9﻿6-100 | 4﻿(Tally Mark)  | ﻿   4      |
