@@ -22,3 +22,11 @@ R﻿andom 40 number.
 *L﻿et Classes = 10*
 
 *R﻿ange = X<sub>m</sub>-X<sub>o</sub>*
+
+**1﻿00-61=39**
+
+*C﻿lass Interval or Class Width or Size of Class*
+
+**H﻿=R/C** 
+
+**3﻿9/10 = 3.9 = 4**
