@@ -59,11 +59,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?size=626&ext=jpg&uid=R129012206&ga=GA1.1.1013746299.1701357045&semt=ais
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?size=626&ext=jpg&uid=R129012206&ga=GA1.1.1013746299.1701357045&semt=ais
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=626&ext=jpg&uid=R129012206&ga=GA1.1.1013746299.1701357045&semt=ais
 ---
