@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Welcome To Code With Fazi
-image: /img/1000022068-1-.png
+title: Code With Fazi
+image: https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg
 heading: Hi I'm Muhammad Faizan
 subheading: Hi I'm Muhammad Faizan
 mainpitch:
