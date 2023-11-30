@@ -2,8 +2,8 @@
 heading: Great coffee with a conscience
 path: /products
 templateKey: product-page
-title: Our Coffee Product
-image: /img/jumbotron.jpg
+title: "Projects "
+image: https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
